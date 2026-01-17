@@ -161,12 +161,3 @@ selenium-form-automation/
 
 - Run in non-headless mode to see what's happening
 - Check XPath selectors match current form structure
-
-## 📝 Assignment Submission Checklist
-
-- [x] Screenshot of filled form
-- [x] Source code with documentation
-- [x] Brief approach documentation
-- [ ] Resume attached
-- [ ] Past project links in email
-- [ ] Availability confirmation in email
